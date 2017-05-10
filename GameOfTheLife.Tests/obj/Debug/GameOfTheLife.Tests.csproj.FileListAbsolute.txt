@@ -1,0 +1,7 @@
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\bin\Debug\GameOfTheLife.Tests.dll
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\bin\Debug\GameOfTheLife.Tests.pdb
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\obj\Debug\GameOfTheLife.Tests.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\obj\Debug\GameOfTheLife.Tests.dll
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\obj\Debug\GameOfTheLife.Tests.pdb
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\bin\Debug\GameOfTheLife.exe
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\ShareData\GameOfTheLife\GameOfTheLife.Tests\bin\Debug\GameOfTheLife.pdb

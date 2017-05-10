@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfTheLife", "GameOfTheLife\GameOfTheLife.csproj", "{90945E31-D2DA-4C95-B1D6-404BD663794E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfTheLife.Tests", "GameOfTheLife.Tests\GameOfTheLife.Tests.csproj", "{5ED78090-28AE-41EE-A116-8F1D8328D3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameContraoller", "GameContraoller\GameContraoller.csproj", "{764F67E4-B577-4606-9DA1-7B694E5E64BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90945E31-D2DA-4C95-B1D6-404BD663794E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90945E31-D2DA-4C95-B1D6-404BD663794E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90945E31-D2DA-4C95-B1D6-404BD663794E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90945E31-D2DA-4C95-B1D6-404BD663794E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED78090-28AE-41EE-A116-8F1D8328D3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED78090-28AE-41EE-A116-8F1D8328D3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED78090-28AE-41EE-A116-8F1D8328D3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED78090-28AE-41EE-A116-8F1D8328D3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764F67E4-B577-4606-9DA1-7B694E5E64BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764F67E4-B577-4606-9DA1-7B694E5E64BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764F67E4-B577-4606-9DA1-7B694E5E64BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764F67E4-B577-4606-9DA1-7B694E5E64BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://bahtiyoresanov.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GameOfTheLife.Tests\\GameOfTheLife.Tests.csproj
+		SccProjectName1 = GameOfTheLife.Tests
+		SccLocalPath1 = GameOfTheLife.Tests
+		SccProjectUniqueName2 = GameOfTheLife\\GameOfTheLife.csproj
+		SccProjectName2 = GameOfTheLife
+		SccLocalPath2 = GameOfTheLife
+		SccProjectUniqueName3 = GameContraoller\\GameContraoller.csproj
+		SccProjectName3 = GameContraoller
+		SccLocalPath3 = GameContraoller
+	EndGlobalSection
+EndGlobal
