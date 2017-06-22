@@ -1,0 +1,5 @@
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameController\bin\Debug\GameController.dll
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameController\bin\Debug\GameController.pdb
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameController\obj\Debug\GameController.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameController\obj\Debug\GameController.dll
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameController\obj\Debug\GameController.pdb

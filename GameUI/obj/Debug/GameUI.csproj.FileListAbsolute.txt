@@ -1,0 +1,8 @@
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\bin\Debug\GameUI.exe.config
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\bin\Debug\GameUI.exe
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\bin\Debug\GameUI.pdb
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\bin\Debug\GameController.dll
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\bin\Debug\GameController.pdb
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\obj\Debug\GameUI.csprojResolveAssemblyReference.cache
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\obj\Debug\GameUI.exe
+C:\Users\bakhtiyor.esanov\Documents\Visual Studio 2015\Projects\Threads\Games\GameUI\obj\Debug\GameUI.pdb
